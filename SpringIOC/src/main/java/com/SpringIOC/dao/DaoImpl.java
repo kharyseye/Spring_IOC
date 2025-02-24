@@ -1,4 +1,4 @@
-package com.irritec.dao;
+package com.SpringIOC.dao;
 
 public class DaoImpl  implements IDao{
     @Override

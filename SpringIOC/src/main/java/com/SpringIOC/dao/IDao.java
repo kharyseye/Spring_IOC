@@ -1,4 +1,4 @@
-package com.irritec.dao;
+package com.SpringIOC.dao;
 
 /**
  * Cette classe représente un utilisateur.
