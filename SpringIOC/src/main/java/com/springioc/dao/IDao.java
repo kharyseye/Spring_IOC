@@ -1,4 +1,4 @@
-package com.SpringIOC.dao;
+package com.springioc.dao;
 
 /**
  * Cette classe représente un utilisateur.

@@ -1,2 +1,2 @@
-com.SpringIOC.dao.DaoImpl2
+com.springioc.dao.DaoImpl2
 metier.MetierImpl

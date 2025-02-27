@@ -1,4 +1,4 @@
-package com.SpringIOC.dao;
+package com.springioc.dao;
 
 public class DaoImpl2 implements IDao{
     @Override

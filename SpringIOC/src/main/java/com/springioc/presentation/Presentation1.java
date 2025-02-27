@@ -1,8 +1,7 @@
-package com.SpringIOC.presentation;
+package com.springioc.presentation;
 
-import com.SpringIOC.dao.DaoImpl;
-import com.SpringIOC.dao.DaoImpl2;
-import com.SpringIOC.metier.MetierImpl;
+import com.springioc.dao.DaoImpl2;
+import com.springioc.metier.MetierImpl;
 
 public class Presentation1 {
     public static void main(String[] args) {

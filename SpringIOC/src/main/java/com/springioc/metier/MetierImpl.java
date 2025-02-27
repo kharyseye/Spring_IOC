@@ -1,6 +1,6 @@
-package com.SpringIOC.metier;
+package com.springioc.metier;
 
-import com.SpringIOC.dao.IDao;
+import com.springioc.dao.IDao;
 
 public class MetierImpl implements IMetier{
 

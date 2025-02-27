@@ -1,6 +1,6 @@
-package com.SpringIOC.presentation;
+package com.springioc.presentation;
 
-import com.SpringIOC.dao.IDao;
+import com.springioc.dao.IDao;
 
 import java.io.File;
 import java.io.FileNotFoundException;
