@@ -1,5 +1,6 @@
 package com.SpringIOC.dao;
 
+
 public class DaoImpl  implements IDao{
     @Override
     public double getData() {
